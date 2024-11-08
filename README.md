@@ -1,5 +1,7 @@
 EDUSTREAM - Plataforma de Streaming para Videoaulas
 
+PROJETO elaborado para TG
+
 📚 Descrição
 
 EDUSTREAM é uma plataforma de streaming de videoaulas voltada para professores e alunos, desenvolvida como protótipo funcional com foco em acessibilidade e facilidade de uso. A plataforma permite upload, gerenciamento e visualização de conteúdos educacionais, com uma interface responsiva adaptada para dispositivos móveis e desktops.
